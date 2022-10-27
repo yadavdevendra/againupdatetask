@@ -1,7 +1,6 @@
 import React from "react";
 
 const ComponentA = ({ count }) => {
-  console.log("hello");
   return (
     <>
       <div
